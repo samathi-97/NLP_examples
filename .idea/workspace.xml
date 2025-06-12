@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="232bc2b9-91a8-47e5-92c0-7289c7920ba0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/spacy_examples/spacy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stanford_corenlp/stanford.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VADER/vader.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +37,7 @@
     "Python.main.executor": "Run",
     "Python.spacy.executor": "Run",
     "Python.stanford.executor": "Run",
+    "Python.vader.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
@@ -105,7 +105,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
