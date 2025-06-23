@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="232bc2b9-91a8-47e5-92c0-7289c7920ba0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bag_of_words/vectorizing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vectors/vectors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vectors/code_vectorization.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.bow.executor": "Run",
+    "Python.code_vectorization.executor": "Run",
     "Python.main.executor": "Run",
     "Python.spacy.executor": "Run",
     "Python.stanford.executor": "Run",
