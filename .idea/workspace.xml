@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="232bc2b9-91a8-47e5-92c0-7289c7920ba0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/vectors/code_vectorization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TF_IDF/tf_idf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zipf law/zipf_law.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,8 +40,10 @@
     "Python.main.executor": "Run",
     "Python.spacy.executor": "Run",
     "Python.stanford.executor": "Run",
+    "Python.tf_idf.executor": "Run",
     "Python.vader.executor": "Run",
     "Python.vectorizing.executor": "Run",
+    "Python.zipf_law.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
