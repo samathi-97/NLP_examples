@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="232bc2b9-91a8-47e5-92c0-7289c7920ba0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TF_IDF/tf_idf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zipf law/zipf_law.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LDA/Lda.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lda.executor": "Run",
     "Python.bow.executor": "Run",
     "Python.code_vectorization.executor": "Run",
     "Python.main.executor": "Run",
